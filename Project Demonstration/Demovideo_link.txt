@@ -1,0 +1,23 @@
+# 🎥 Project Demonstration
+
+## Credit Card Approval Prediction using Machine Learning
+
+### Demo Video
+
+The project demonstration video can be accessed using the link below:
+
+**Google Drive:**  
+https://drive.google.com/file/d/1HYsP_Vyi7w8SEPOsfhy6QIlutjcYT41W/view?usp=sharing
+
+
+### Demonstration Includes
+
+- Project Overview
+- User Registration and Login
+- Dashboard
+- Credit Card Application Form
+- Machine Learning Prediction
+- Prediction Result
+- Project Features
+
+**Note:** The video has been shared separately due to GitHub's file size restrictions.
